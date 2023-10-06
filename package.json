@@ -1,0 +1,34 @@
+{
+  "name": "crystal-point-zero-plus",
+  "displayName": "Crystal",
+  "description": "the outfit of soruce code!",
+  "version": "0.0.1",
+  "publisher": "crystal22",
+  "repository": {
+    "type": "git",
+    "url" : ""
+  },
+  "keywords": [
+    "theme",
+    "dark theme",
+    "deep passion",
+    "dayananda ksh",
+    "crystal",
+    "best theme"
+  ],
+  "engines": {
+    "vscode": "^1.82.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Crystal",
+        "uiTheme": "vs-dark",
+        "path": "./themes/Crystal-color-theme.json"
+      }
+    ]
+  }
+}
